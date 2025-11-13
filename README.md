@@ -1,7 +1,3 @@
-Perfeito 👌 — aqui está um exemplo de **README.md** inicial para o seu projeto **LexiCustoms**, já formatado em Markdown e com uma pegada profissional e clara:
-
----
-
 # 🧩 LexiCustoms
 
 **LexiCustoms** é um repositório aberto dedicado à criação, organização e compartilhamento de **dicionários e léxicos personalizados** derivados ou inspirados na base de dados do [Unitex/GramLab](https://unitexgramlab.org/pt).
